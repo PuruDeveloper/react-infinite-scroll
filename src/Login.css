@@ -1,0 +1,11 @@
+.login {
+  color: white;
+}
+
+.form {
+  display: block;
+  border: 1px solid #3498db;
+  width: 250px;
+  height: 190px;
+  margin: 0 auto;
+}
